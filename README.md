@@ -2,8 +2,8 @@
 
 ## 🚀 About Me
 - 💻 Flutter & Android Developer
-- 🎨 UI/UX Designer at Redbuddy
-- 🔥 Learning Firebase & Kotlin
+- 🎨 UI/UX Designer at Artivo Tech Studio
+- 🔥 Learning Firebase
 - 📱 Building modern mobile apps
 - 🌱 Exploring AI-powered apps
 
@@ -14,7 +14,6 @@
 ### Mobile Development
 - Flutter
 - Dart
-- Kotlin
 - Firebase
 
 ### Design
@@ -23,6 +22,7 @@
 
 ### Programming
 - C++
+- Dart
 - Git & GitHub
 
 ---
