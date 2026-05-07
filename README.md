@@ -1,16 +1,51 @@
-## Hi there 👋
+# Hi there 👋, I'm Ruhul Amin Khan Zenith
 
-<!--
-**RuhulAminKhanZenith/RuhulAminKhanZenith** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 About Me
+- 💻 Flutter & Android Developer
+- 🎨 UI/UX Designer at Redbuddy
+- 🔥 Learning Firebase & Kotlin
+- 📱 Building modern mobile apps
+- 🌱 Exploring AI-powered apps
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tech Stack
+
+### Mobile Development
+- Flutter
+- Dart
+- Kotlin
+- Firebase
+
+### Design
+- Figma
+- UI/UX Design
+
+### Programming
+- C++
+- Git & GitHub
+
+---
+
+## 📌 Featured Projects
+
+### 📱 AssignUP
+Assignment management app using Flutter & Firebase.
+
+### 📚 Ostad Flutter Live Tests
+Flutter practice and live test solutions.
+
+### 🧠 Algorithms
+Problem solving using C++.
+
+---
+
+## 📫 Connect With Me
+
+- GitHub: https://github.com/RuhulAminKhanZenith
+- Email: ruhul.amin.khan.zenith@gmail.com
+
+---
+
+## ⚡ Fun Fact
+I love building clean UI and modern mobile apps 🚀
